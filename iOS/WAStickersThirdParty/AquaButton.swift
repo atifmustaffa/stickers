@@ -17,7 +17,7 @@ class RoundedButton: UIButton {
         layer.masksToBounds = true
         layer.cornerRadius = 10.0
 
-        titleLabel?.font = UIFont.boldSystemFont(ofSize: titleLabel!.font.pointSize)
+        titleLabel?.font = .boldSystemFont(ofSize: titleLabel!.font.pointSize)
     }
 
     required init?(coder aDecoder: NSCoder) {
@@ -38,6 +38,16 @@ class AquaButton: RoundedButton {
             imageView?.tintColor = newHighlighted ? UIColor.white.withAlphaComponent(0.5) : .white
         }
     }
+    
+    override var isEnabled: Bool {
+        didSet{
+            if isEnabled {
+                imageView!.tintColor = .white
+            } else {
+                imageView!.tintColor = .lightGray
+            }
+        }
+    }
 
     override init(frame: CGRect) {
         super.init(frame: frame)
@@ -48,6 +58,7 @@ class AquaButton: RoundedButton {
 
         imageView!.tintColor = .white
         setTitleColor(UIColor.white.withAlphaComponent(0.5), for: .highlighted)
+        setTitleColor(UIColor.lightGray.withAlphaComponent(1.0), for: .disabled)
         imageEdgeInsets.left = -25
     }
     
@@ -70,7 +81,17 @@ class GrayRoundedButton: RoundedButton {
             imageView?.tintColor = newHighlighted ? aquaColor.withAlphaComponent(0.5) : aquaColor
         }
     }
-
+    
+    override var isEnabled: Bool {
+        didSet{
+            if isEnabled {
+                tintColor = UIColor.white
+            } else {
+                tintColor = UIColor.gray
+            }
+        }
+    }
+    
     override init(frame: CGRect) {
         super.init(frame: frame)
 
