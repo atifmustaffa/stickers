@@ -15,70 +15,92 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "abe-kekw.webp"
+          "image_file": "abe-kekw.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "achik-wut.webp"
+          "image_file": "achik-wut.webp",
+          "emojis":  ["\uD83D\uDC69"]
         },
         {
-          "image_file": "adam-no.webp"
+          "image_file": "adam-no.webp",
+          "emojis":  ["\uD83D\uDC76"]
         },
         {
-          "image_file": "adam-topi.webp"
+          "image_file": "adam-topi.webp",
+          "emojis":  ["\uD83D\uDC76"]
         },
         {
-          "image_file": "adam-wutface.webp"
+          "image_file": "adam-wutface.webp",
+          "emojis":  ["\uD83D\uDC76"]
         },
         {
-          "image_file": "ali-kekw.webp"
+          "image_file": "ali-kekw.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "ali-lulw.webp"
+          "image_file": "ali-lulw.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "ali-sleep.webp"
+          "image_file": "ali-sleep.webp",
+          "emojis":  ["\uD83D\uDE34"]
         },
         {
-          "image_file": "amina.webp"
+          "image_file": "amina.webp",
+          "emojis":  ["\uD83D\uDC76"]
         },
         {
-          "image_file": "angah-uwut.webp"
+          "image_file": "angah-uwut.webp",
+          "emojis":  ["\uD83D\uDC69"]
         },
         {
-          "image_file": "hmm.webp"
+          "image_file": "hmm.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "imah-lel.webp"
+          "image_file": "imah-lel.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "imah-sleep.webp"
+          "image_file": "imah-sleep.webp",
+          "emojis":  ["\uD83D\uDE34"]
         },
         {
-          "image_file": "imah-thumbsup.webp"
+          "image_file": "imah-thumbsup.webp",
+          "emojis":  ["\uD83D\uDC4D"]
         },
         {
-          "image_file": "imah-wut.webp"
+          "image_file": "imah-wut.webp",
+          "emojis":  ["\uD83D\uDE10"]
         },
         {
-          "image_file": "imah-pepega.webp"
+          "image_file": "imah-pepega.webp",
+          "emojis":  ["\uD83D\uDE0F"]
         },
         {
-          "image_file": "ipe-sleep.webp"
+          "image_file": "ipe-sleep.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "jat.webp"
+          "image_file": "jat.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "kasyah-pepega.webp"
+          "image_file": "kasyah-pepega.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "umi-wutface.webp"
+          "image_file": "umi-wutface.webp",
+          "emojis":  ["\uD83D\uDC69"]
         },
         {
-          "image_file": "yah-hmm.webp"
+          "image_file": "yah-hmm.webp",
+          "emojis":  ["\uD83D\uDC69"]
         },
         {
-          "image_file": "yusuf-botak.webp"
+          "image_file": "yusuf-botak.webp",
+          "emojis":  ["\uD83D\uDC76"]
         }
       ]
     },
@@ -95,31 +117,40 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "abu.webp"
+          "image_file": "abu.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "afif.webp"
+          "image_file": "afif.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "fahim.webp"
+          "image_file": "fahim.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "hadi.webp"
+          "image_file": "hadi.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "hadi2.webp"
+          "image_file": "hadi2.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "imran.webp"
+          "image_file": "imran.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "jopa.webp"
+          "image_file": "jopa.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "khalid.webp"
+          "image_file": "khalid.webp",
+          "emojis":  ["\uD83D\uDC68"]
         },
         {
-          "image_file": "paiz.webp"
+          "image_file": "paiz.webp",
+          "emojis":  ["\uD83D\uDC68"]
         }
       ]
     }
